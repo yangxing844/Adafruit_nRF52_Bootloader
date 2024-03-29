@@ -62,4 +62,4 @@
 #define UF2_BOARD_ID      "nRF52840-corne-v4-xing"
 #define UF2_INDEX_URL     "https://github.com/yangxing844/Adafruit_nRF52_Bootloader"
 
-#endif // _CORNE_V4_H
+#endif // _CORNE_V4_H 
